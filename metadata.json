@@ -1,0 +1,12 @@
+{
+  "name": "JARVIS Mobile AI",
+  "description": "Bilingual Bengali and English voice-controlled personal AI assistant and A-to-Z mobile command hub.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
